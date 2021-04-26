@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  
+}
+input{
+  line-height: 40px;
+  outline-width: 40px;
+}
+input[type="text"] {
+  width: 200px;
+}
